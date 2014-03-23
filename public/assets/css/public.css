@@ -1,0 +1,84 @@
+/* This stylesheet is used to style the public-facing components of the plugin. */
+.vlearn-table{
+    table-layout: fixed;
+    float:left;    
+}
+
+.vlearn-table a{
+    color:#ffffff;
+    font-size:75%;
+}
+
+.vlearn-table th,.vlearn-table td {
+}
+
+.vlearn-table-image{
+    margin-bottom:-10px;
+}
+.vlearn-table-vertical{
+    width:200px;
+}
+
+.vlearn-head{width:100%;}
+
+.vlearn-google-news{
+	  padding:12px;
+    background:#DB4444;
+    float:left;
+}
+ .vlearn-google-news-vertical{
+ 	width:160px;
+ }
+
+.vlearn-google-news h2{color:#fff;}
+
+/************AMAZON***********/
+
+.vlearn-amazon{
+	padding:10px;
+	float:left;
+	background:#eaeaea;
+}
+.vlearn-amazon-vertical{
+	width:160px;
+}
+
+.amazon-prod{
+	float:left;
+}
+.amazon-prod-horizontal{
+	width:25%;
+}
+.amazon-img{
+	margin: 0px; margin-right: 10px; border: 1px solid grey;
+	float:left;
+	width:85px;
+}
+.amazon-img-horizontal{
+	max-height:100px;
+	width:auto !important;
+}
+.vlearn-book-title{
+	float:left;
+	width:100%;
+font-size: 80%;
+}
+.amazon-prod-horizontal .vlearn-book-title{
+	font-size:75% !important;
+	width:85%;
+}
+.amazon-prod-vertical .vlearn-book-title{
+border-bottom: 1px solid #cccccc;
+margin-bottom: 8px;
+}
+.vlearn-clear-horizontal{
+	width:100%;
+	border-bottom:1px solid #cccccc;
+	float:left;
+	margin-bottom:20px;
+	margin-top:10px;
+}
+
+
+
+
